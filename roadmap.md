@@ -1,0 +1,23 @@
+# Roadmap
+- [x] Create the consultancy conversion page from the uploaded presentation.
+- [x] Verify images, section navigation and WhatsApp links.
+- [x] Include all presentation content in its original topic order.
+- [x] Apply Montserrat ExtraBold, Lato Bold and Lato.
+- [x] Restore original presentation PNG images without alterations.
+- [x] Verify the complete page against the original presentation.
+- [x] Apply and verify the requested section backgrounds, text colors and continuous culture/indecision gradient without changing content.
+- [x] Apply and verify the intro heading, peach accent, solid culture background, black method diagram and white contact icons.
+- [x] Make the Top of Mind chart background transparent and remove black numbers.
+- [x] Replace the AI composite with the two uploaded images (Radar Inovador + "Tudo Igual" flyer).
+- [x] Shrink the left AI-section image by 50% and match the right one to its height.
+- [x] Replace the "Tudo começa pelo ponto de partida" image with the attached PDF diagram and apply a white background with #05233e text.
+- [x] Remove the black frames behind the "A consultoria é feita para estes casos" diagram, keeping icons and texts on the section background.
+- [x] Replace the top presentation with the uploaded composite image and place its WhatsApp CTA without covering embedded text.
+- [x] Apply the solid #05233e background to the detailed method steps.
+- [x] Adapt the wide top image with mobile side cropping and a centered full-size WhatsApp CTA.
+- [x] Enlarge AI images by 20% and the starting-point diagram by 40%, within viewport constraints.
+- [x] Remove the smaller duplicate Top of Mind caption and verify all adjustments.
+- [x] Replace the top image with the newly uploaded composite, keeping the same responsive rules and centered WhatsApp CTA.
+- [x] Center the latest top image across devices and align the “A dúvida” label with its question icon.
+- [x] Replace the top image with the newest upload, keeping the established alignment rules, and drop the border box around “A dúvida” while keeping its alignment.
+- [x] Unir "A dúvida: a empresa sente o impacto deste trabalho árduo?" em um só parágrafo com o ícone à esquerda (responsivo)
